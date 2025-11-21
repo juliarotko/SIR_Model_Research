@@ -4,7 +4,7 @@ This repository contains my projects on epidemiological modeling with the SIR mo
 
 ## Reports 
 - **[Report 1](reports/report1.pdf)** – Analysis of the SIR model outcomes and exploration of the dynamics.  
-- **[Report 2](reports/report2.pdf)** – Co-authored with [Anna De Martin], focusing on stochastic and spatial SIR.
+- **[Report 2](reports/report2.pdf)** – Co-authored with [@Anna De Martin], focusing on stochastic and spatial SIR.
 
 ## Code 
 
